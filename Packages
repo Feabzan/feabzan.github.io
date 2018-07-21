@@ -1,0 +1,27 @@
+Package: com.feabzan.dontbadgeme
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: Feabzan <feabzan@outlook.com>
+Filename: /DontBadgeMe.deb
+Size: 3286
+MD5sum: 88e2867c8b76ffd1b4f834d2a7e4b8b3
+SHA1: 0e988c27f70531f4ffac162aad799ecfcead3f58
+SHA256: bfc6209724ea90687ed868a2a5cc2e6616a3274588413a22919a977d16327ed2
+Section: Tweaks
+Description: Clears and removes all notification badges 
+Author: Feabzan <feabzan@outlook.com>
+Name: Dont Badge Me
+
+Package: com.feabzan.nomoregenius
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: Feabzan <feabzan@outlook.com>
+Filename: /NoMoreGenius.deb
+Size: 3284
+MD5sum: d4ac0d49d2344698d8390f7a87ccb329
+SHA1: 253e6db20b8f00979ae9db97535d939b499a0853
+SHA256: 5925f5d51846393a49972fcfbd34df54de112ad7af1d1203865e90018f10379c
+Section: Tweaks
+Description: Disables Spotify's Genius
+Author: Feabzan <feabzan@outlook.com>
+Name: No More Genius
